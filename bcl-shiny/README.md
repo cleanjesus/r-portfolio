@@ -10,6 +10,9 @@ Given price, type, and country filters, what does the alcohol-content distributi
 
 ## Files
 - [`app.R`](app.R): single-file Shiny app (UI + server). Keep `bcl-data.csv` in the same folder.
+- [`images/dashboard.png`](images/dashboard.png): app screenshot with default filters (Wine, Canada, $10–$20).
+
+![BC Liquor Store Prices app](images/dashboard.png)
 
 ## How to run
 ```r

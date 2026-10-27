@@ -7,6 +7,11 @@ Data visualization and interactive app projects in R for my data visualization c
 | [walking-dead](walking-dead) | Reshape wide data to long and visualize with ggplot2 | Character kill counts by season (in script) |
 | [bcl-shiny](bcl-shiny) | Interactive Shiny app: filter BC liquor products and plot alcohol content | `bcl-data.csv` (~6,100 products) |
 
+## Previews
+
+[![Walking Dead kill counts by season](walking-dead/images/dashboard.png)](walking-dead)
+[![BC Liquor Store Prices Shiny app](bcl-shiny/images/dashboard.png)](bcl-shiny)
+
 ## How to run
 
 1. Install [R](https://cran.r-project.org/) and (recommended) [RStudio](https://posit.co/download/rstudio-desktop/).

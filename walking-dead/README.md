@@ -10,6 +10,13 @@ Kill counts for eight characters (Rick, Morgan, Glen, Daryl, Carl, Michonne, Car
 
 ## Files
 - [`walking-dead.R`](walking-dead.R): setup, reshape, and ggplot2 plots (histograms, density overlays, line/point plots, facets).
+- [`images/`](images): plot previews from the script.
+
+![Kill counts by season](images/dashboard.png)
+
+![Kill counts by character, faceted by season](images/kills-by-character-facet.png)
+
+![Kill-count distribution with density and median](images/kills-distribution.png)
 
 ## How to run
 ```r
